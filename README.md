@@ -1,7 +1,7 @@
 # implementations-and-evaluations-of-denoising-autoencoders-for-image-reconstruction
-# Denoising Autoencoder (CS 271 HW2 - Question 3)
+# Denoising Autoencoder 
 
-This repository contains implementations and evaluations of denoising autoencoders for image reconstruction in the topics in Machine Learning.
+This repository contains implementations and evaluations of denoising autoencoders for image reconstruction in the field of Machine Learning.
 
 ## Overview
 
